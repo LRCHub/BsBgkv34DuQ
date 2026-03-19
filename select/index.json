@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "少女Ａ",
+  "base_artist": "Akina Nakamori",
+  "createdAt": "2026-03-19T09:16:22.250194Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "少女A - Instrumental, 2014 Remaster",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/01_少女A_-_Instrumental,_2014_Remaster_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "少女A",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/02_少女A_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "少女A (from 「BEST AKINA メモワール」)",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/03_少女A_(from_「BEST_AKINA_メモワール」)_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "少女A",
+      "artist": "Akina Nakamori (中森明菜)",
+      "has_synced": true,
+      "path": "select/04_少女A_Akina_Nakamori_(中森明菜).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "少女A",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/05_少女A_中森明菜.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "「少女A」",
+      "artist": "ギルガメッシュ",
+      "has_synced": false,
+      "path": "select/06_「少女A」_ギルガメッシュ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "「少女A」",
+      "artist": "girugamesh",
+      "has_synced": false,
+      "path": "select/07_「少女A」_girugamesh.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Young Girl A (English Cover)「少女A」【Will Stetson】",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/08_Young_Girl_A_(English_Cover)「少女A」【Will_Stetson】_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Young Girl A (English Cover)「少女A」【Will Stetson】",
+      "artist": "Will Stetson",
+      "has_synced": false,
+      "path": "select/09_Young_Girl_A_(English_Cover)「少女A」【Will_Stetson】_Will_Stetson.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "少女A",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/10_少女A_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "少女A",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/11_少女A_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "少女A - Young Girl A",
+      "artist": "siinamota",
+      "has_synced": true,
+      "path": "select/12_少女A_-_Young_Girl_A_siinamota.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "少女A",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/13_少女A_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "少女A <30th anniversary mix>",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/14_少女A__30th_anniversary_mix_中森明菜.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "少女A",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_01_少女A_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "少女A",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_02_少女A_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "少女A",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_03_少女A_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "少女A",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_04_少女A_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "少女A",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_05_少女A_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "少女A",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_06_少女A_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "少女A",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_07_少女A_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "少女A",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_08_少女A_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "少女A",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_09_少女A_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "少女A",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_10_少女A_中森_明菜.txt"
+    }
+  ]
+}
